@@ -1,0 +1,13 @@
+{
+    "name": "miniche/quickstart",
+    "require": {
+        "zendframework/zendframework1": "1.*"
+    },
+    "authors": [
+        {
+            "name": "Charles-Emmanuel",
+            "email": "che.camus@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
