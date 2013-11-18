@@ -1,0 +1,4 @@
+# Gitignore for ZF1-Template repository
+# Created by miniche (github.com/miniche)
+
+/vendor
